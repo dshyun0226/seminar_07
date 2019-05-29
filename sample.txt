@@ -1,2 +1,2 @@
-This is original sample file.
+This is original sample(new_branch) file.
 
